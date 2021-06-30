@@ -6,7 +6,7 @@ You can find the source code for the "Jenny Mod" here. I don't have any rights f
 
 # Willkommen
 
-Hier kannst du den Quellcode der "Jenny Mod" finden. Ich habe keinerlei Rechte am Code und wenn der Original entwcikler dies findet und von mir verlangt den Quellcode zu löschen werde ich dies ohne zu zögern tun!
+Hier kannst du den Quellcode der "Jenny Mod" finden. Ich habe keinerlei Rechte am Code und wenn der Original entwickler dies findet und von mir verlangt den Quellcode zu löschen werde ich dies ohne zu zögern tun!
 
 ## What's the goal of this?
 
